@@ -1,0 +1,50 @@
+<div class="item-container ">
+<!--brand info-->
+<!--product image-->
+<a class="item-img " href="https://www.newegg.com/Product/ComboBundleDetails.aspx?ItemList=Combo.3580269">
+<img alt="GIGABYTE AORUS Radeon RX 570 DirectX 12 GV-RX570AORUS-4GD 4GB 256-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card, GIGABYTE ..." class=" lazy-img" data-effect="fadeIn" data-src="//images10.newegg.com/NeweggImage/ProductImageCompressAll300/combo3580269.jpg" src="//images10.newegg.com/WebResource/Themes/2005/Nest/blank.gif" title="GIGABYTE AORUS Radeon RX 570 DirectX 12 GV-RX570AORUS-4GD 4GB 256-Bit GDDR5 PCI Express 3.0 x16 ATX Video Card, GIGABYTE ...">
+</img></a>
+<div class="item-info">
+<!--description info-->
+<a class="item-title" href="https://www.newegg.com/Product/ComboBundleDetails.aspx?ItemList=Combo.3580269" title="View Details">GIGABYTE AORUS Radeon RX 570 DirectX 12 GV-RX570AORUS-4GD 4GB 256-Bit ...</a>
+<!--promption info-->
+<p class="item-promo"><i class="item-promo-icon"></i>RX 570 + MB Bundle!</p>
+<div class="item-action">
+<!--price-->
+<ul class="price ">
+<li class="price-was">
+       $419.98
+            <span class="price-was-data" style="display: none">419.98</span>
+</li>
+<li class="price-map">
+</li>
+<li class="price-current">
+<span class="price-current-label">
+</span>$<strong>410</strong><sup>.98</sup> 
+            <span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+</li>
+<li class="price-save">
+<span class="price-save-endtime price-save-endtime-current"></span>
+<span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+<span class="price-save-label">Combo save: </span>
+<span class="price-save-dollar">$9.00</span>
+<span class="price-save-percent"></span>
+</li>
+<li class="price-note">
+</li>
+<li class="price-ship">
+</li>
+</ul>
+<!--egg point-->
+<!--button-->
+<div class="item-operate hidden-action-button ">
+<div class="item-button-area">
+<button class="btn btn-mini btn-primary" onclick="Biz.Product.video.conversion('cat\x3a\x7bVideo Cards \x26 Video Devices\x7d','3580269','1');Javascript:Biz.ProductList.Item.add('https://secure.newegg.com/Shopping/AddToCart.aspx?Submit=ADD&amp;ItemList=Combo.3580269');" title="Add  to cart" type="button">Add To Cart <i class="fa fa-caret-right"></i></button>
+</div>
+<!--compare-->
+</div>
+</div>
+</div>
+</div>
